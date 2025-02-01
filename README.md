@@ -18,7 +18,7 @@
 ###
 ## ⚡ Tech Stack
 <div align="left">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
