@@ -1,4 +1,5 @@
 <h2 align="left">Hi There 👋! I'm Anukalp Mishra. A passionate DevOps Engineer from India.</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anukalp-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="anukalp-mishra" /> </p>
 
 ###
 ## ⚡ My GitHub Stats
