@@ -2,7 +2,7 @@
 <h2>Hey folks! 👋</h2>
 
 <p>I'm Anukalp Mishra. A passionate DevOps Engineer from India.</p>
-###
+
 ## ⚡ My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anukalp-mishra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
