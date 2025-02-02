@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anukalp-mishra&base=11300&label=Profile%20views&color=ff69b4&style=flat" alt="anukalp-mishra" /></p>
 <h2>Hey folks! 👋</h2>
-<p>I'm Anukalp Mishra, a passionate DevOps Engineer from India. I specialize in automation, cloud infrastructure, and CI/CD, with expertise in Kubernetes, Terraform, Docker, and cloud platforms like AWS & Azure. My focus is on building scalable, secure, and efficient systems.</p>
+<p>I'm Anukalp Mishra, a passionate DevOps Engineer from India. I specialize in automation, cloud infrastructure, and CI/CD, with expertise in Jenkins, Kubernetes, Terraform, Docker, and cloud platforms like AWS & Azure. My focus is on building scalable, secure, and efficient systems.</p>
 
 ## ⚡ My GitHub Stats
 <div align="center">
